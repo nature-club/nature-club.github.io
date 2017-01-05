@@ -1,4 +1,5 @@
 ## nature-club
+Nature Club
 
 ## Installation
 
@@ -16,4 +17,4 @@ rx007
 
 ## License
 
-This is licensed under
+This is licensed under MIT
